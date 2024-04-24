@@ -1,0 +1,4 @@
+The part 1 folder includes the code to run the track race. You just have to run the test.java file and the program should run with the 3 horses.
+
+The part 2 folder includes the code to run the track race and the GUI. To use this you must run the Menu GUI. This will load the menu page where you have options to create a new horse, use existing horses, see horse statistics and place bets. To run the race, you must begin by setting the distance of the race. After this, you are able to select create horse, use existing horses, or bet. 
+If you select create horse, you must input the data as specified on the screen, then the race will run; If you select use existing horses, the race will run straight away; If you select bet, it will display the wins and losses of the user and the money they have available, depending on this will be the amount you are able to bet, once you have selected the amount you want to bet the race will begin.
