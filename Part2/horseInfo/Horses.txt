@@ -1,0 +1,4 @@
+P,PIPPI LONGSTOCKING,0.2,Black,Black,Equipment1,Accessories1,0.2,18,9.38,33,3
+K,KOKOMO,0.6,White,White,Equipment2,Accessories2,0.6,16,18.75,33,6
+E,EL JEFE,0.5,Brown,Brown,Equipment3,Accessories3,0.4,12,18.75,33,6
+C,COCO LOCO,0.9,Spots,Green,Equipment4,Accessories4,1.0,10,54.55,33,18
