@@ -1,6 +1,7 @@
-
 /**
  * Write a description of class Horse here.
+ * 
+ * This class represents a horse with methods and attributes.
  * 
  * @author Lyiam Jeremy Mendoza
  * @version 1.0
